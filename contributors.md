@@ -1,6 +1,6 @@
 # Contributors
 
-@github.com/janzeteachesittempleton :school:, member of both @TitanPublishing/c-block and @TitanPublishing/f-block
+@janzeteachesittempleton @janzeteachesit :school:, member of both @TitanPublishing/c-block and @TitanPublishing/f-block
 
 
 ### Referneces:
