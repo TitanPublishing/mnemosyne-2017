@@ -1,3 +1,3 @@
 # Contributors
 
-- Mr. C. Janze @janzeteachesit, @janzeteachesittempleton
+@janzeteachesittempleton :+1:
