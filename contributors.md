@@ -1,3 +1,3 @@
 # Contributors
 
-- [Janzeteachesit](@janzeteachesit)
+- @Janzeteachesit
