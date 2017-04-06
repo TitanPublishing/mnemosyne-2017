@@ -1,6 +1,6 @@
-# name (or penname)
+# janzeteachesit
 
-![](./_assets/janze-profile.jpg)
+![](_assets/janze-profile.jpg)
 
 brief summary sentence (introduce profession(s) and/or genre(s))
 
