@@ -21,7 +21,12 @@ ___
 
 
 
+(delete this line and everything below when finished above):
 
-Example (delete when finished above):
+### Example 
 
 Annie Neugebauer is a short story author, novelist, and award-winning poet. She has work appearing or forthcoming in over forty venues, including Black Static, Fireside, and Buzzy Mag. When she’s not frightening strangers with her writing, she’s most likely frightening her husband and their two mischievous cats. You can visit her at www.AnnieNeugebauer.com.
+
+### References
+- [GitHub Cheatsheet - .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
