@@ -2,7 +2,8 @@
 
 ![](../_assets/janze-profile.jpg)
 
-brief summary sentence (introduce profession(s) and/or genre(s))
+janzeteachesit | Online ID for Mr. Carl Janze | Teacher | STEM, Computer Science + Game Design | Templeton Secondary School ..d|0_o|b..
+
 
 ___
 
@@ -12,9 +13,11 @@ ___
 +
 
 ## personal tidbit 
-(be as standard or as playful as you like here. this is a great opportunity to say something quirky and unexpected.)
+
+> on or about 49° N, 123° W
 
 +
 
 ## Conatact Info
-- [website (you should always include your online home: all signs should point to that.)](http://sites.google.com/your/new/portfolio/site)
+- [Portfolio - NEW Google Sites](https://sites.google.com/templeton.vsb.bc.ca/janzeteachesit-portfolio/main)
+- [Profile- Medium.com](https://medium.com/@janzeteachesit)
