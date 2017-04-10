@@ -1,5 +1,5 @@
 # janzeteachesit
-
+___
 ![](../_assets/janze-profile.jpg)
 
 > janzeteachesit 
@@ -9,8 +9,6 @@
 > STEM, Computer Science + Game Design | Templeton Secondary School 
 > 
 > ..d|0_o|b..
-
-___
 
 ## Published
 - [Name of link](http://link/to/article)
