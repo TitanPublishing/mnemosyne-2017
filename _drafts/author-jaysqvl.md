@@ -1,32 +1,20 @@
-# name (or penname)
+# Bob Esquivel
 
 ![](./_assets/janze-profile.jpg)
 
-brief summary sentence (introduce profession(s) and/or genre(s))
+I'm a graphics student in C-Block pursuing and sharpening my tools to broaden my abilities on the computer.
 
 ___
 
 ## Published
-- [Name of link](http://link/to/article)
-
+Author of the article "Crystal Growing Competition 2016" <https://medium.com/@newsletter_54417/crystal-growing-competition-2016-d2fd4155aa19#.syyssjd92> and "Breaking News: Library" <https://medium.com/@newsletter_54417/breaking-news-library-a80a6070f113>:
 +
 
 ## personal tidbit 
-(be as standard or as playful as you like here. this is a great opportunity to say something quirky and unexpected.)
+I'm well rounded. 
+I play sports, keep up with school, and am interested in the computer engineering/science field.
 
 +
 
 ## Conatact Info
-- [website (you should always include your online home: all signs should point to that.)](http://sites.google.com/your/new/portfolio/site)
-
-
-
-(delete this line and everything below when finished above):
-
-### Example 
-
-Annie Neugebauer is a short story author, novelist, and award-winning poet. She has work appearing or forthcoming in over forty venues, including Black Static, Fireside, and Buzzy Mag. When she’s not frightening strangers with her writing, she’s most likely frightening her husband and their two mischievous cats. You can visit her at www.AnnieNeugebauer.com.
-
-### References
-- [GitHub Cheatsheet - .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+https://sites.google.com/templeton.vsb.bc.ca/bobsqvl
