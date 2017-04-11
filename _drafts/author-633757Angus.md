@@ -1,8 +1,8 @@
-# name (or penname)
+# Angus
 
 ![](./_assets/janze-profile.jpg)
 
-brief summary sentence (introduce profession(s) and/or genre(s))
+I am a professional student at Templeton Secondary. You can call my work phone during business hours (mondays-fridays 8:40AM-3:01PM)
 
 ___
 
