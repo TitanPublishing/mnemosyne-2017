@@ -11,7 +11,7 @@ Proud Author of:
 - MAKERSPACE NEWS https://medium.com/@newsletter_54417/makerspace-news-e1124f2d3133
 - CST VOLUNTEER HOLIDAY CELEBRATION https://medium.com/@newsletter_54417/cst-volunteer-holiday-celebration-2877bb4736a1
 
-## personal tidbit 
+## Personal Tidbit 
 - I have 7000 unread emails.
 - I am allergic to salt water.
 
