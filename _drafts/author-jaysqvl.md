@@ -7,8 +7,8 @@ I'm a graphics student in C-Block pursuing and sharpening my tools to broaden my
 ___
 
 ## Published
-Author of the article "Crystal Growing Competition 2016" <https://medium.com/@newsletter_54417/crystal-growing-competition-2016-d2fd4155aa19#.syyssjd92> and "Breaking News: Library" <https://medium.com/@newsletter_54417/breaking-news-library-a80a6070f113>:
-+
+Author of the articles:
+"Crystal Growing Competition 2016" <https://medium.com/@newsletter_54417/crystal-growing-competition-2016-d2fd4155aa19#.syyssjd92> "Breaking News: Library" <https://medium.com/@newsletter_54417/breaking-news-library-a80a6070f113>:
 
 ## personal tidbit 
 I'm well rounded. 
