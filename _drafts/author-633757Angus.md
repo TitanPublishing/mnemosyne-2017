@@ -2,7 +2,7 @@
 
 ![](./_assets/janze-profile.jpg)
 
-I am a professional student at Templeton Secondary. You can call my work phone during business hours (mondays-fridays 8:40AM-3:01PM)
+I am a professional student at Templeton Secondary. You can call my work phone number during business hours (mondays-fridays 8:40AM-3:01PM)
 
 ___
 
