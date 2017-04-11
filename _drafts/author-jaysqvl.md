@@ -13,7 +13,7 @@ Author of the articles:
 "Breaking News: Library" <https://medium.com/@newsletter_54417/breaking-news-library-a80a6070f113>:
 
 ## Personal Tidbit 
-I'm well rounded. 
+I'm well rounded.
 +
 I play sports, keep up with school, and am interested in the computer engineering/science field.
 
