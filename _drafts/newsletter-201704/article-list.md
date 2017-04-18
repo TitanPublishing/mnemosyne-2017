@@ -8,7 +8,7 @@
 Student Editor | Title | Link to file
 --- | --- | ---
 janze | Example Article | [Example Article](example.md)
-WendyLy809115 | YOE Tackles Warming Winter Adventures|[Winter Adventure](Winter Adventure.md)
+WendyLy809115 | YOE Tackles Warming Winter Adventures|[Winter Adventure](WinterAdventure.md)
 1508500Fiona | Titans Girls Basketball | [Titans Girls Basketball](Titansgirlsbasketball.md)
 622581amy | Grade 7 Conference | [Grade 7 Conference](Grade7Conference.md)
 621431stephanie | Titan Athletics | [Titan Athletics](TitanAthletics.md)
