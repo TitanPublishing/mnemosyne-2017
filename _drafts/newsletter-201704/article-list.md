@@ -10,3 +10,4 @@ Student Editor | Title | Link to file
 janze | Example Article | [Example Article](example.md)
 622581amy | Grade 7 Conference | 
 621431stephanie | Titan Athletics |
+1508500Fiona | Titans Girls Basketball | [Titans Girls Basketball](Titansgirlsbasketball.md)
