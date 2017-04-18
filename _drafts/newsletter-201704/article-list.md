@@ -7,5 +7,5 @@
 
 Student Editor | Title | Link to file
 --- | --- | ---
-janze | Example Article | [Example Article](example-article.md)
+janze | Example Article | [Example Article](example.md)
 
