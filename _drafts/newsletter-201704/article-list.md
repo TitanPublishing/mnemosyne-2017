@@ -8,5 +8,4 @@
 Student Editor | Title | Link to file
 --- | --- | ---
 janze | Example Article | [Example Article](example.md)
-
 WendyLy809115 | YOE Tackles Warming Winter Adventures|
