@@ -5,7 +5,7 @@
 - after you choose your article, add it to the table below.
 - MoreTBD; 
 
-Student Ed | Title
------------|------
-janze | Example
+Student Editor | Title | Link to file
+--- | --- | ---
+janze | Example Article | [Example Article](example-article.md)
 
