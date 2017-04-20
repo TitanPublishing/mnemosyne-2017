@@ -1,1 +1,4 @@
 
+On Thurs, Apr 27th, 160 grade 7’s from our neighbouring elementary schools will take part in our annual Grade 7 Conference hosted at the PNE and Hastings Community Centre. This event aims to help with the transition from grade seven to high school, with our Templeton Titans delivering presentations on the topics of: High School Experience, Health and Nutrition, and Safe Schools and Bullying Prevention. It is a jam-packed day filled with awesome performances and great discussions led by some of our very own Titans. The Templeton CST would like to thank our amazing Titan volunteers, Templeton cafeteria staff and students, Templeton Secondary School admin and staff, Hastings Community Centre, the PNE, SACY, and Vancouver Coastal Health for their support for this very important event.
+
+Paula Parman, Community Schools Team Programmer
