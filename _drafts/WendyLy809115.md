@@ -8,8 +8,9 @@ ___
 
 ## Published
 - [Name of link](http://link/to/article)
+- [Principal's Message](https://medium.com/@newsletter_54417/principals-message-dca611abbd5)
+- [Templeton Girls' Group](https://medium.com/@newsletter_54417/templeton-girls-group-students-preparing-care-packages-for-the-2016-warming-up-the-east-side-e4b49bbaec2d)
 
-+
 
 ## personal tidbit 
 (be as standard or as playful as you like here. this is a great opportunity to say something quirky and unexpected.)
