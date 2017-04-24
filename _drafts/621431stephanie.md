@@ -10,7 +10,7 @@ ___
 - [TITAN ATHLETICS](https://medium.com/@newsletter_54417/titan-athletics-2142817e720d)
 - [The Whistler Blackcomb Ski & Snowboard Trip](https://medium.com/@newsletter_54417/the-whistler-blackcomb-ski-and-snowboard-trip-2825f9f36544)
 
-+
+
 
 ## personal tidbit 
 (be as standard or as playful as you like here. this is a great opportunity to say something quirky and unexpected.)
