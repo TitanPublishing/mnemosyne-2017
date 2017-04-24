@@ -10,7 +10,7 @@ ___
 - [GitHub - repo](https://github.com/TitanPublishing/mnemosyne-2017)
 - [GitHub - webpage](https://titanpublishing.github.io/mnemosyne-2017/)
 - [GitBook - Read](https://templeton-titan-publishing.gitbooks.io/mnemosyne-2017/content/)
-- [GitBOok - Edit](https://www.gitbook.com/book/templeton-titan-publishing/mnemosyne-2017/edit#/edit/)
+- [GitBook - Edit](https://www.gitbook.com/book/templeton-titan-publishing/mnemosyne-2017/edit#/edit/)
 
 ## drafts
 - [authors](/_drafts/author-toc.md)
