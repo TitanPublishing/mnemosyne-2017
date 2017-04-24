@@ -2,7 +2,8 @@
 
 ![](../_assets/6f1d0bdf-65e7-41d2-8aa3-027dae1d0c27.jpg)
 
-brief summary sentence (introduce profession(s) and/or genre(s))
+>hi
+- Hi squad, it's Stephanie here. I spend my days livin' the life at Temptation Secondary School.
 
 ___
 
@@ -13,20 +14,20 @@ ___
 
 
 ## personal tidbit 
-(be as standard or as playful as you like here. this is a great opportunity to say something quirky and unexpected.)
+- I like math.
+- I can speak four languages. 
 
-+
+
 
 ## Conatact Info
 - https://sites.google.com/templeton.vsb.bc.ca/stephso/home
 
 
 
-(delete this line and everything below when finished above):
 
-### Example 
 
-Annie Neugebauer is a short story author, novelist, and award-winning poet. She has work appearing or forthcoming in over forty venues, including Black Static, Fireside, and Buzzy Mag. When she’s not frightening strangers with her writing, she’s most likely frightening her husband and their two mischievous cats. You can visit her at www.AnnieNeugebauer.com.
+
+
 
 ### References
 - [GitHub Cheatsheet - .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
