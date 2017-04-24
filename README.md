@@ -13,4 +13,4 @@ ___
 - [GitBook - Edit](https://www.gitbook.com/book/templeton-titan-publishing/mnemosyne-2017/edit#/edit/)
 
 ## drafts
-- [authors](/_drafts/author-toc.md)
+- [authors](author-toc.md)
