@@ -15,5 +15,5 @@ Proud Author of:
 - I have 7000 unread emails.
 - I am allergic to salt water.
 
-## Conatact Info
+## Contact Info
 https://sites.google.com/templeton.vsb.bc.ca/angus/portfolio
