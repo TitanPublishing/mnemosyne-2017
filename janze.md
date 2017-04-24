@@ -1,6 +1,6 @@
 # janzeteachesit
 ___
-![](../_assets/Apple_icon_1.png)
+![](_assets/Apple_icon_1.png)
 
 > janzeteachesit 
 > 
