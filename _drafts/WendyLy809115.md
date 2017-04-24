@@ -1,4 +1,4 @@
-# name (or penname)
+# Wendy
 
 ![](../_assets/husky.jpg)
 
