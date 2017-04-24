@@ -11,7 +11,9 @@ ___
 > ..d|0_o|b..
 
 ## Published
-<!-- - [Name of link](http://link/to/article) -->
+<!--
+- [Name of link](http://link/to/article) 
+-->
 
 ## About janzeteachesits 
 
