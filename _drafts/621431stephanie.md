@@ -7,7 +7,8 @@ brief summary sentence (introduce profession(s) and/or genre(s))
 ___
 
 ## Published
-- [Name of link](http://link/to/article)
+- [TITAN ATHLETICS](https://medium.com/@newsletter_54417/titan-athletics-2142817e720d)
+- [The Whistler Blackcomb Ski & Snowboard Trip](https://medium.com/@newsletter_54417/the-whistler-blackcomb-ski-and-snowboard-trip-2825f9f36544)
 
 +
 
@@ -17,7 +18,7 @@ ___
 +
 
 ## Conatact Info
-- (https://sites.google.com/templeton.vsb.bc.ca/stephso/home)
+- https://sites.google.com/templeton.vsb.bc.ca/stephso/home
 
 
 
