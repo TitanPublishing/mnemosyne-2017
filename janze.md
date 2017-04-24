@@ -13,7 +13,7 @@ ___
 ## Published
 <!-- - [Name of link](http://link/to/article) -->
 
-## personal tidbit 
+## About janzeteachesits 
 
 > on or about 49° N, 123° W
 
