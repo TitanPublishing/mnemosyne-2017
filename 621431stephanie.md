@@ -2,7 +2,7 @@
 
 ![](../_assets/6f1d0bdf-65e7-41d2-8aa3-027dae1d0c27.jpg)
 
->hi
+
 - Hi squad, it's Stephanie here. I spend my days livin' the life at Temptation Secondary School.
 
 ___
