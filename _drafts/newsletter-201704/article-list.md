@@ -16,3 +16,4 @@ WendyLy809115 | YOE Tackles Warming Winter Adventures|[Winter Adventure](WinterA
 Cindy808225 | Templeton's First Nations Family Night | [Templeton's First Nations Family Night](Templetonsfirstnationsfamilynight.md)
 633757Angus | Cypress Mountain Ski & Snowboard trip | [Cypress Mountain Ski & Snowboardtrip](CypressMountainSki&Snowboardtrip.md)
 621782Will | Titans Girls Basketball | https://github.com/TitanPublishing/mnemosyne-2017/blob/master/_drafts/newsletter-201704/Titansgirlsbasketball.md (Titansgirlsbasketball.md)
+Jaysqvl | Grade 7 Conference | [Templeton's Annual Grade 7 Conference](Grade7Conference.md)
