@@ -2,7 +2,7 @@
 
 ![](../_assets/husky.jpg)
 
-Hastings Go! ヽ༼ຈل͜ຈ༽ﾉ
+Hastings Go!ヽ༼ຈل͜ຈ༽ﾉ 
 
 ___
 
