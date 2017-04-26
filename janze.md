@@ -1,14 +1,11 @@
 # janzeteachesit
 ___
 
-![](_assets/Apple_icon_1.png)
+![](assets/Apple_icon_1.png)
 
 > janzeteachesit 
-> 
 > Online ID for Mr. Carl Janze | Teacher 
-> 
 > STEM, Computer Science + Game Design | Templeton Secondary School 
-> 
 > ..d|0_o|b..
 
 ## Published
