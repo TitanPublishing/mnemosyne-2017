@@ -20,7 +20,7 @@ ___
 
 
 ## Conatact Info
-- https://sites.google.com/templeton.vsb.bc.ca/stephso/home
+- [Stephanie's Portfolio](https://sites.google.com/templeton.vsb.bc.ca/stephso/home)
 
 
 
