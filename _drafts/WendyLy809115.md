@@ -1,4 +1,4 @@
-# Wendy 
+# Wendy Ly
 
 ![](../_assets/husky.jpg)
 
