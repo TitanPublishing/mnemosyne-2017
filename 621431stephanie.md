@@ -23,12 +23,6 @@ ___
 - [Stephanie's Portfolio](https://sites.google.com/templeton.vsb.bc.ca/stephso/home)
 
 
-
-
-
-
-
-
 ### References
 - [GitHub Cheatsheet - .pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
