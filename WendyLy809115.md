@@ -16,7 +16,7 @@ ___
 
 
 ## Conatact Info
-- [website (you should always include your online home: all signs should point to that.)](http://sites.google.com/your/new/portfolio/site)
+- https://sites.google.com/templeton.vsb.bc.ca/wendylyportfolio 
 
 
 ### References
