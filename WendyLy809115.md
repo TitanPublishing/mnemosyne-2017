@@ -16,7 +16,7 @@ ___
 
 
 ## Conatact Info
-- https://sites.google.com/templeton.vsb.bc.ca/wendylyportfolio 
+- https://sites.google.com/templeton.vsb.bc.ca/wendylyportfolio
 
 
 ### References
