@@ -3,20 +3,16 @@ ___
 
 ![](assets/janze-profile.jpg)
 
-> janzeteachesit 
-> 
-> Online ID for Mr. Carl Janze | Teacher 
-> 
-> STEM, Computer Science + Game Design | Templeton Secondary School 
-> 
-> ..d|0_o|b..
+Online ID for Mr. Carl Janze | Teacher <br />
+STEM, Computer Science + Game Design | Templeton Secondary School <br />
+..d|0_o|b.. <br />
 
 ## Published
 <!--
 - [Name of link](http://link/to/article) 
 -->
 
-## About janzeteachesits 
+## About janzeteachesit
 
 > on or about 49° N, 123° W
 
