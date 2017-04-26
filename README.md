@@ -1,8 +1,5 @@
-# Mnemosyne
-## Introduction
-### 2017-04-06
-___
-Preface
+
+### Preface to the 2017 Edition
 ___
 ### Sections
 - [Table of Contents](summary.md)
