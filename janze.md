@@ -14,9 +14,9 @@ STEM, Computer Science + Game Design \| Templeton Secondary School <br />
 
 ## About janzeteachesit
 
-> on or about 49° N, 123° W
-> @janzeteachesittempleton and @janzeteachesit
-> member of both @TitanPublishing/c-block and @TitanPublishing/f-block
+> on or about 49° N, 123° W <br />
+> @janzeteachesittempleton and @janzeteachesit <br />
+> member of both @TitanPublishing/c-block and @TitanPublishing/f-block <br />
 > :school:
 
 
