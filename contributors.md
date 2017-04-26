@@ -6,7 +6,7 @@
 - [622581amy](622581amy.md)
 - [Wendy809115](WendyLy809115.md)
 - [621431stephanie](621431stephanie.md)
-- [janze](janze.md)- @janzeteachesittempleton @janzeteachesit :school:, member of both @TitanPublishing/c-block and @TitanPublishing/f-block
+- [janze](janze.md) :school:
 
 ### Referneces:
 - What the heck are all these weird symbols for?  Check out the [markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
