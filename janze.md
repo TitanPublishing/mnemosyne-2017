@@ -1,7 +1,7 @@
 # janzeteachesit
 ___
 
-![](assets/Apple_icon_1.png)
+![](assets/janze-profile.jpg)
 
 > janzeteachesit 
 > 
