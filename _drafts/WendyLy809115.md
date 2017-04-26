@@ -13,7 +13,7 @@ ___
 
 ## personal tidbit 
 (づ￣ ³￣)づ I like Anime, Animals, Art and Amy 
-+
+
 
 ## Conatact Info
 - [website (you should always include your online home: all signs should point to that.)](http://sites.google.com/your/new/portfolio/site)
