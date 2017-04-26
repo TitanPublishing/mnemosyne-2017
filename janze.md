@@ -3,9 +3,9 @@ ___
 
 ![](assets/janze-profile.jpg)
 
-Online ID for Mr. Carl Janze | Teacher <br />
-STEM, Computer Science + Game Design | Templeton Secondary School <br />
-..d|0_o|b.. <br />
+Online ID for Mr. Carl Janze \| Teacher <br />
+STEM, Computer Science + Game Design \| Templeton Secondary School <br />
+..d\|0_o\|b.. <br />
 
 ## Published
 <!--
