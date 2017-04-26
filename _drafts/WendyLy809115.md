@@ -1,4 +1,4 @@
-# Wendy (ノಠ益ಠ)ノ彡┻━┻
+# Wendy 
 
 ![](../_assets/husky.jpg)
 
