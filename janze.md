@@ -20,6 +20,6 @@ STEM, Computer Science + Game Design \| Templeton Secondary School <br />
 > :school:
 
 
-## Conatact Info
+## Contact Info
 - [Portfolio - NEW Google Sites](https://sites.google.com/templeton.vsb.bc.ca/janzeteachesit-portfolio/main)
 - [Profile- Medium.com](https://medium.com/@janzeteachesit)
