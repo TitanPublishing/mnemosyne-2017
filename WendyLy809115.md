@@ -1,6 +1,6 @@
 # Wendy Ly
 
-![](../_assets/husky.jpg)
+![](./_assets/husky.jpg)
 
 Hastings Go!ヽ༼ຈل͜ຈ༽ﾉ 
 
