@@ -13,8 +13,7 @@ ___
 
 
 ## personal tidbit 
-(be as standard or as playful as you like here. this is a great opportunity to say something quirky and unexpected.)
-
+(づ￣ ³￣)づ I like Anime, Animals, Art and Amy 
 +
 
 ## Conatact Info
